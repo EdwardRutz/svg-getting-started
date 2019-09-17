@@ -1,7 +1,8 @@
 # Working with SVG
 
 
-> A demo on Scalable Vector Graphics and creating an interactive office floor map.
+> A demo on Scalable Vector Graphic.
+> Creating an SVG and using it along with CSS.
 
 
 
