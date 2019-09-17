@@ -1,7 +1,7 @@
 # Working with SVG
 
 
-> A quick demo about Scalable Vector Graphics to create an interactive office floor map.
+> A demo on Scalable Vector Graphics and creating an interactive office floor map.
 
 
 

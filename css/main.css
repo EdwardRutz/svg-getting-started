@@ -9,7 +9,6 @@ body {
     color: #384047;
 }
 
-
 .wrapper {
   max-width: 90%;
   margin: 10px auto;
@@ -17,7 +16,6 @@ body {
   background: #f4f7f8;
   border-radius: 8px;
 }
-
 
 h1, h2 {
     text-align: center;
